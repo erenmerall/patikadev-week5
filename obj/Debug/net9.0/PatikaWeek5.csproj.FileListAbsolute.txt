@@ -1,0 +1,14 @@
+C:\Yazılım\Patika+\Week5\PatikaWeek5\bin\Debug\net9.0\PatikaWeek5.exe
+C:\Yazılım\Patika+\Week5\PatikaWeek5\bin\Debug\net9.0\PatikaWeek5.deps.json
+C:\Yazılım\Patika+\Week5\PatikaWeek5\bin\Debug\net9.0\PatikaWeek5.runtimeconfig.json
+C:\Yazılım\Patika+\Week5\PatikaWeek5\bin\Debug\net9.0\PatikaWeek5.dll
+C:\Yazılım\Patika+\Week5\PatikaWeek5\bin\Debug\net9.0\PatikaWeek5.pdb
+C:\Yazılım\Patika+\Week5\PatikaWeek5\obj\Debug\net9.0\PatikaWeek5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yazılım\Patika+\Week5\PatikaWeek5\obj\Debug\net9.0\PatikaWeek5.AssemblyInfoInputs.cache
+C:\Yazılım\Patika+\Week5\PatikaWeek5\obj\Debug\net9.0\PatikaWeek5.AssemblyInfo.cs
+C:\Yazılım\Patika+\Week5\PatikaWeek5\obj\Debug\net9.0\PatikaWeek5.csproj.CoreCompileInputs.cache
+C:\Yazılım\Patika+\Week5\PatikaWeek5\obj\Debug\net9.0\PatikaWeek5.dll
+C:\Yazılım\Patika+\Week5\PatikaWeek5\obj\Debug\net9.0\refint\PatikaWeek5.dll
+C:\Yazılım\Patika+\Week5\PatikaWeek5\obj\Debug\net9.0\PatikaWeek5.pdb
+C:\Yazılım\Patika+\Week5\PatikaWeek5\obj\Debug\net9.0\PatikaWeek5.genruntimeconfig.cache
+C:\Yazılım\Patika+\Week5\PatikaWeek5\obj\Debug\net9.0\ref\PatikaWeek5.dll
